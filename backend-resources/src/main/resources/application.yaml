@@ -16,4 +16,4 @@ keycloak:
   resource: backend-resources
   auth-server-url: http://backend-keycloak-auth:8080/auth
   credentials:
-    secret: <ключ от клиента backend-resources>
+    secret: TM3adEBt2iuGKGW4tQz5Q7e8eBq0ZSwy
